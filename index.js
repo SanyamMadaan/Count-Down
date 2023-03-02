@@ -1,4 +1,4 @@
-const endDate = "21 February 2023 12:00 AM" ;
+const endDate = "23 october 2023 12:00 AM" ;
 document.getElementById('end').innerText=endDate;
 const inputs=document.querySelectorAll("input")
 function clock(){
